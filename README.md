@@ -1,8 +1,3 @@
-# React + Vite
+# Rebuild in React #01
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is the result of an experiment to take a page from an existing frontend (created with OutSystems) and see if it is possible to rebuild the user interface in React using generative AI (GPT-4o). 
