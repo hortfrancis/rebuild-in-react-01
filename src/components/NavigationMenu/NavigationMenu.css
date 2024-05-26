@@ -1,0 +1,9 @@
+.navigation-menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu-icon {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
